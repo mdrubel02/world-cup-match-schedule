@@ -335,7 +335,7 @@ footer {
         width: 700px;
     }
     .match-date{
-        margin: 3rem;
+        margin: 2rem;
     }
 }
 
@@ -363,9 +363,6 @@ footer {
     }
     .btn_primary{
         display: none;
-    }
-    .match-date{
-        margin: 3rem;
     }
 }
 /* ======== MOBILE DEVICE======== */
@@ -401,8 +398,5 @@ footer {
     }
     .btn_primary{
         display: none;
-    }
-    .match-date{
-        margin: 8rem;
     }
 }
