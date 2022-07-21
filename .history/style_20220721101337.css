@@ -226,7 +226,7 @@ hr {
 .match_thumble img{
     width: 90px;
     height: 55px;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 .info{
     display: flex;
